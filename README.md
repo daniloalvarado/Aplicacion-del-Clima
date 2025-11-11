@@ -1,0 +1,3 @@
+La aplicación meteorológica es una aplicación web basada en React que proporciona información y pronósticos meteorológicos en tiempo real para ciudades de todo el mundo. La aplicación se integra con la API de OpenWeatherMap para ofrecer las condiciones meteorológicas actuales, pronósticos a 5 días y tendencias de temperatura por hora con visualizaciones interactivas.
+
+La base de código está estructurada como una moderna aplicación de página única (SPA) que utiliza React 18, TypeScript y Vite, con un enfoque en la seguridad de tipos, la gestión eficiente de datos a través de TanStack Query y una interfaz de usuario responsiva construida con Tailwind CSS y bibliotecas de componentes.
